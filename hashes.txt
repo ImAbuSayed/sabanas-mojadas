@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas mojadas
+
+This log tracks the cryptographic history and versioning for the song **Sábanas mojadas** (sabanas-mojadas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T02:39:16.557009 | `v1` | `b5f49783e7b4194ece55cb16f7a2e58a29f029bd4630e7569aa86926c7c932f3` | `d60839d157ad20cff810e82032d6d9aee76b5cb66188cc831984805ea000527c` | `2026-06-19_sabanas-mojadas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-mojadas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sábanas mojadas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-mojadas/) |
+| **Get License** | [Obtain a Music License for Sábanas mojadas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-mojadas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b5f49783e7b4194ece55cb16f7a2e58a29f029bd4630e7569aa86926c7c932f3` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
