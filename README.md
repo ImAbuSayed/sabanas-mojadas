@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-mojadas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sábanas mojadas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-mojadas/) |
+| **Get License** | [Get License For Sábanas mojadas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-mojadas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, apaga la luz, dime qué vas a hacer
+> Sábanas mojadas, sudando hasta el amanecer
+> You and me, baby, perdiendo el control
+> Bajo las luces de neón, dándonos calor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
